@@ -26,27 +26,27 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 - **37%** of reservations were canceled, impacting hotel earnings significantly.  
 
 ### 2️⃣ **Hotel Type Comparison**  
-![Reservation Status by Hotel Type](./Reservation%20Status%20in%20Different%20Hotels.png)  
+![Reservation Status by Hotel Type](./images/Reservation%20Status%20in%20Different%20Hotels.png)  
 - City hotels receive more bookings compared to resort hotels.  
 - Higher costs may contribute to lower resort hotel occupancy.  
 
 ### 3️⃣ **Price Impact on Cancellations**  
-![ADR per Month](./ADR%20per%20Month.png)  
+![ADR per Month](./images/ADR%20per%20Month.png)  
 - Cancellations spike when **average daily rates (ADR)** are higher.  
 - Price fluctuations directly influence customer behavior.  
 
 ### 4️⃣ **Monthly Reservation Patterns**  
-![Reservation Status Per Month](./Reservation%20Status%20Per%20Month.png)  
+![Reservation Status Per Month](./images/Reservation%20Status%20Per%20Month.png)  
 - **Highest confirmed reservations:** August  
 - **Most cancellations:** January  
 - **Lowest cancellations:** September  
 
 ### 5️⃣ **Cancellations by Country**  
-![Top 10 Countries](./pie%20country.png)  
+![Top 10 Countries](./images/pie%20country.png)  
 - **Portugal** has the highest cancellation rate (70.28%).  
 
 ### 6️⃣ **Booking Channels**  
-![Market Segment](./markety%20segment.png)  
+![Market Segment](./images/markety%20segment.png)  
 - **47%** of reservations come from **online travel agents**.  
 - Offline bookings make up a significantly smaller share.  
 
