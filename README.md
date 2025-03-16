@@ -19,7 +19,7 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 ✔️ Longer waiting lists result in higher cancellation rates.  
 ✔️ Most reservations originate from online platforms.  
 
-## 📊 Key Findings  
+## 📊 Key Findings   
 
 ### 1️⃣ **Cancellation Trends**  
 ![Reservation Status](./images/ReservationStatusbyCanceled.png)  
