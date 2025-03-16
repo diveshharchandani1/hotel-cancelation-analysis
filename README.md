@@ -50,6 +50,11 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 - **47%** of reservations come from **online travel agents**.  
 - Offline bookings make up a significantly smaller share.  
 
+
+### 7️⃣ **Average Daily Rate**  
+![ADR](./images/avg%20daily%20from%202016.png)  
+- As seen in the chart, reservations are cancelled when average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
+
 ## 📌 Recommendations  
 ✅ **Dynamic Pricing:** Adjust prices based on seasonality and location to minimize cancellations.  
 ✅ **Targeted Discounts:** Offer strategic discounts, especially for **resort hotels**, during weekends and holidays.  
