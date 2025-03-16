@@ -1,4 +1,4 @@
-# 📊 Hotel Booking Cancellations Analysis  
+# 📊 Hotel Booking Cancellations Analysisx
 
 ## 🏨 Business Problem  
 City and resort hotels have experienced high cancellation rates, leading to revenue loss and inefficient room utilization. The goal of this analysis is to identify key factors driving cancellations and provide actionable recommendations to reduce them.  
