@@ -23,7 +23,7 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 
 ### 1️⃣ **Cancellation Trends**  
 ![Reservation Status](./images/ReservationStatusbyCanceled.png)  
-- **36.44%** of reservations were canceled, impacting hotel earnings significantly.  
+- **37%** of reservations were canceled, impacting hotel earnings significantly.  
 
 ### 2️⃣ **Hotel Type Comparison**  
 ![Reservation Status by Hotel Type](./Reservation%20Status%20in%20Different%20Hotels.png)  
